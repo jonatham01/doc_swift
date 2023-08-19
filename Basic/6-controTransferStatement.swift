@@ -38,7 +38,7 @@ print(description)
     // Prints "I hope the weather is nice in Cupertino."
 
     
-/// REFER
+/// DEFER
 
     var score = 1
     if score < 10 {
